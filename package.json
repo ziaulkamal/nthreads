@@ -1,0 +1,11 @@
+{
+  "name": "nthreads",
+  "version": "1.0.0",
+  "description": "Simple Tools To manage many content using AI",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "author": "Ziaul Kamal",
+  "license": "ISC"
+}
